@@ -43,7 +43,6 @@ k8s/
 │
 └── scripts/
     ├── stress-test.ps1          # Teste de carga
-    └── cleanup.ps1              # Limpeza
 ```
 
 ---
