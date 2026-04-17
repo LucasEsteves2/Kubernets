@@ -46,6 +46,10 @@ k8s/
     └── cleanup.ps1              # Limpeza
 ```
 
+
+## 👷🏻‍♀️ Estrutura da arquitetura interna
+<img width="1562" height="1471" alt="image" src="https://github.com/user-attachments/assets/6d7e4bd4-336c-465e-a159-04563c5d21f2" />
+
 ---
 
 ## 🚀 Como Executar
