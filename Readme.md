@@ -151,7 +151,14 @@ minikube service frontend -n questionario
 ---
 
 ### **📸 Evidência de Funcionamento**
+Front comunicando com back
+<img width="1917" height="959" alt="image" src="https://github.com/user-attachments/assets/17020cd0-1d41-47fc-a99c-1a34e6dda48c" />
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/aa240917-a9dc-45d4-88e0-128c802f7745" />
 
+<img width="730" height="194" alt="image" src="https://github.com/user-attachments/assets/165dfd4f-f804-417f-bf35-4953e0e0c8f0" />
+
+<img width="720" height="294" alt="image" src="https://github.com/user-attachments/assets/7e039b95-04d8-4347-920c-50603624528d" />
+<img width="1693" height="817" alt="image" src="https://github.com/user-attachments/assets/d598545e-04fd-49c9-896a-bd68a92dc2f0" />
 
 ---
 
@@ -213,6 +220,15 @@ minikube service grafana -n questionario
 
 **Refresh automático:** 10 segundos
 
+##Questionario - Infraestrutura Kubernetes
+
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/944dc2bd-5999-4f13-80c6-4609efd0d56d" />
+<img width="1913" height="923" alt="image" src="https://github.com/user-attachments/assets/c58f1908-0e83-4465-be42-c0896b7dbc94" />
+---
+#Questionario - Backend e Negocio
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/d3ad92bd-dce0-4045-a507-42e6e7ad8702" />
+<img width="1916" height="939" alt="image" src="https://github.com/user-attachments/assets/d3bfe017-7b06-4dac-84f0-bf8f6b450c7c" />
+
 ---
 
 ## 🔥 Stress Test
@@ -230,6 +246,14 @@ cd k8s/scripts
 - 📈 CPU aumentando
 - 💾 Memória subindo
 - 🌐 Pico de requisições
+
+---
+
+## 🔥 Esteira
+
+Esteira configurada no projeto RAIZ https://github.com/LucasEsteves2/ApiQuestionario_InfNet
+
+<img width="1888" height="493" alt="image" src="https://github.com/user-attachments/assets/93e241b8-97ce-4cd2-a3a3-09c4deda1bf1" />
 
 ---
 
